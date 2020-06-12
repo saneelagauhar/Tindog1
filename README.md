@@ -1,2 +1,1 @@
-# Tindog1
-An example of tutorial
+TinDog Starting Files
